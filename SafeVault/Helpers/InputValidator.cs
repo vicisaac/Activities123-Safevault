@@ -1,3 +1,6 @@
+// SafeVault/Helpers/InputValidator.cs
+// Improved with the help of Copilot to analyze and fix security issues.
+
 using System.Text.RegularExpressions;
 
 namespace SafeVault.Helpers

@@ -1,3 +1,6 @@
+// SafeVault/Controllers/AccountController.cs
+// Improved with the help of Copilot to analyze and fix security issues.
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using SafeVault.Models;

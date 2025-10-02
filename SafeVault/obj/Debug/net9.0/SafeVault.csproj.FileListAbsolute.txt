@@ -937,3 +937,4 @@ C:\xDev2025\csharp\Lab9\Activities123\SafeVault\obj\Debug\net9.0\refint\SafeVaul
 C:\xDev2025\csharp\Lab9\Activities123\SafeVault\obj\Debug\net9.0\SafeVault.pdb
 C:\xDev2025\csharp\Lab9\Activities123\SafeVault\obj\Debug\net9.0\SafeVault.genruntimeconfig.cache
 C:\xDev2025\csharp\Lab9\Activities123\SafeVault\obj\Debug\net9.0\ref\SafeVault.dll
+C:\xDev2025\csharp\Lab9\Activities123\SafeVault\obj\Debug\net9.0\SafeVault.sourcelink.json
